@@ -1,0 +1,24 @@
+How do you start your day at work (or) Tell us your daily activities 
+
+I start with my day :
+---------------------
+checking emails/jira tickets
+checking notifications from monitoring system
+Ensuring that there is not critical alert un attended.
+Proving help and support to developers
+Proving support to production servers
+Automation admin repeatitipve tasks
+Creating jenkins jobs for deployment
+Supporting existing infra and creating new servers
+Deploying code in DEV&PROD servers
+Checking proper approvals before code release
+
+I am responsible for :
+----------------------
+
+Build and release process
+Managing User access on resources (Grant/Revoke)
+Managing GIT branches
+Automation (Jenkins/Ansible)
+Server & Applications support 
+Ensuring backup and creating backup policy
