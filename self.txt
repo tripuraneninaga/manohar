@@ -22,3 +22,4 @@ Managing GIT branches
 Automation (Jenkins/Ansible)
 Server & Applications support 
 Ensuring backup and creating backup policy
+Checking proper approvals before code release
